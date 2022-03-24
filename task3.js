@@ -1,5 +1,5 @@
 function hello(){
-  const msg = "Hello Maleshelane!";
+  return  "Hello Maleshelane!";
 }
 
-console.log(msg);
+
